@@ -19,6 +19,16 @@
       "name": "Produto de Teste",
       "price": 125.1,
       "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "999.99",
+      "id": 5
+    },
+    {
+      "name": "Fogão",
+      "price": "500.99",
+      "id": 6
     }
   ]
 }
